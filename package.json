@@ -1,0 +1,35 @@
+{
+  "name": "the-lord-of-the-rings-tcg-ages-end-data",
+  "version": "1.0.0",
+  "description": "Card data for the The Lord of the Rings TCG: Ages End set released in June 2007 by Decipher, Inc.",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"**/*.+(js|json|ts)\"",
+    "tsc": "npx tsc",
+    "watch": "npx tsc -w",
+    "build": "node ./dist/index.js",
+    "generate": "npm run tsc && npm run build && npm run format"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxninjabunnyxx/the-lord-of-the-rings-tcg-ages-end-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxninjabunnyxx/the-lord-of-the-rings-tcg-ages-end-data/issues"
+  },
+  "homepage": "https://github.com/xxninjabunnyxx/the-lord-of-the-rings-tcg-ages-end-data#readme",
+  "devDependencies": {
+    "@types/lodash": "^4.14.173",
+    "@types/node": "^16.9.4",
+    "prettier": "^2.4.1",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "@types/js-yaml": "^4.0.3",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21"
+  }
+}
