@@ -12,4 +12,3 @@ const card: Condition = {
   number: "19P15",
 };
 export default card;
-

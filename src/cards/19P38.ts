@@ -3,11 +3,11 @@ const card: Minion = {
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.wraith,
-  twilight: '4',
-  typeList: [TypeListItem.minion,TypeListItem.nazgul],
-  strength: '9',
-  vitality: '2',
-  site: '3',
+  twilight: "4",
+  typeList: [TypeListItem.minion, TypeListItem.nazgul],
+  strength: "9",
+  vitality: "2",
+  site: "3",
   gameText:
     "Fierce. When you play Ulaire Nertea, name a race. The Free Peoples player cannot assign Ulaire Nertea to skirmish a companion of the named race.",
   rarity: Rarity.p,
@@ -15,4 +15,3 @@ const card: Minion = {
 };
 
 export default card;
-

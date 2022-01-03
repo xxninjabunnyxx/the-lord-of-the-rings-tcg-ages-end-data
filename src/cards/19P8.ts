@@ -4,7 +4,7 @@ const card: Companion = {
   kind: Kind.freePeople,
   culture: Culture.gandalf,
   twilight: "4",
-  typeList: [TypeListItem.companion,TypeListItem.wizard],
+  typeList: [TypeListItem.companion, TypeListItem.wizard],
   strength: "8",
   vitality: "4",
   resistance: "7",
@@ -13,4 +13,3 @@ const card: Companion = {
   number: "19P8",
 };
 export default card;
-

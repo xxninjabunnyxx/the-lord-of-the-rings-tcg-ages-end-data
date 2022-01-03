@@ -14,4 +14,3 @@ const card: Companion = {
   number: "19P6",
 };
 export default card;
-

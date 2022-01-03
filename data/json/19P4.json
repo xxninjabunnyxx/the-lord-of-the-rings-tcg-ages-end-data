@@ -1,14 +1,11 @@
 {
- "title": "That's Two!",
- "set": "Ages End",
- "kind": "Free People",
- "culture": "Dwarven",
- "twilight": "2",
- "typeList": [
-  "Event",
-  "Regroup"
- ],
- "gameText": "Spot Gimli and exert a fellowship companion to have each Shadow player discard one of his or her Shadow cards from play.",
- "rarity": "P",
- "number": "19P4"
+  "title": "That's Two!",
+  "set": "Ages End",
+  "kind": "Free People",
+  "culture": "Dwarven",
+  "twilight": "2",
+  "typeList": ["Event", "Regroup"],
+  "gameText": "Spot Gimli and exert a fellowship companion to have each Shadow player discard one of his or her Shadow cards from play.",
+  "rarity": "P",
+  "number": "19P4"
 }

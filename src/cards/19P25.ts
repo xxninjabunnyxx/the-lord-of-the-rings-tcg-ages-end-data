@@ -15,4 +15,3 @@ const card: Companion = {
 };
 
 export default card;
-

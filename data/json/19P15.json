@@ -1,14 +1,12 @@
 {
- "title": "Strength In My Blood",
- "set": "Ages End",
- "kind": "Free People",
- "culture": "Gondor",
- "twilight": "1",
- "typeList": [
-  "Condition"
- ],
- "strength": "+1",
- "gameText": "Bearer must be a fellowship companion. While bearer is a [Gondor] companion, he or she is damage +1.",
- "rarity": "P",
- "number": "19P15"
+  "title": "Strength In My Blood",
+  "set": "Ages End",
+  "kind": "Free People",
+  "culture": "Gondor",
+  "twilight": "1",
+  "typeList": ["Condition"],
+  "strength": "+1",
+  "gameText": "Bearer must be a fellowship companion. While bearer is a [Gondor] companion, he or she is damage +1.",
+  "rarity": "P",
+  "number": "19P15"
 }

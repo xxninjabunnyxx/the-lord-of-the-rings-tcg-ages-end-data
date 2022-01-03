@@ -14,4 +14,3 @@ const card: Minion = {
 };
 
 export default card;
-

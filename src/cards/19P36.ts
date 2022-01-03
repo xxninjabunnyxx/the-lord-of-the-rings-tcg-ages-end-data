@@ -3,15 +3,14 @@ const card: Minion = {
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.wraith,
-  twilight: '6',
+  twilight: "6",
   typeList: [TypeListItem.minion, TypeListItem.nazgul],
-  strength: '11',
-  vitality: '4',
-  site: '3',
+  strength: "11",
+  vitality: "4",
+  site: "3",
   gameText: "Fierce. Maneuver",
   rarity: Rarity.p,
   number: "19P36",
 };
 
 export default card;
-

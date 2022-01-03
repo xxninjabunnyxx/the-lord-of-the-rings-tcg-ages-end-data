@@ -13,4 +13,3 @@ const card: Condition = {
 };
 
 export default card;
-

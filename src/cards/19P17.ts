@@ -12,4 +12,3 @@ const card: Condition = {
   strength: "0",
 };
 export default card;
-

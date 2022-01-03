@@ -1,17 +1,14 @@
 {
- "title": "Pippin, Steadfast Friend",
- "set": "Ages End",
- "kind": "Free People",
- "culture": "Shire",
- "twilight": "1",
- "typeList": [
-  "Companion",
-  "Hobbit"
- ],
- "strength": "3",
- "vitality": "4",
- "resistance": "8",
- "gameText": "Fellowship. Pippin is strength +1 for each tale you can spot.",
- "rarity": "P",
- "number": "19P30"
+  "title": "Pippin, Steadfast Friend",
+  "set": "Ages End",
+  "kind": "Free People",
+  "culture": "Shire",
+  "twilight": "1",
+  "typeList": ["Companion", "Hobbit"],
+  "strength": "3",
+  "vitality": "4",
+  "resistance": "8",
+  "gameText": "Fellowship. Pippin is strength +1 for each tale you can spot.",
+  "rarity": "P",
+  "number": "19P30"
 }

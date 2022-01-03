@@ -4,7 +4,7 @@ const card: Minion = {
   kind: Kind.shadow,
   culture: Culture.orc,
   twilight: "6",
-  typeList: [TypeListItem.minion,TypeListItem.troll],
+  typeList: [TypeListItem.minion, TypeListItem.troll],
   strength: "13",
   vitality: "3",
   site: "4",
@@ -14,4 +14,3 @@ const card: Minion = {
 };
 
 export default card;
-

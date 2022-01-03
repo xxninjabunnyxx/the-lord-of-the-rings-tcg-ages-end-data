@@ -14,4 +14,3 @@ const card: Minion = {
   number: "19P19",
 };
 export default card;
-
