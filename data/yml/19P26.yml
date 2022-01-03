@@ -1,0 +1,14 @@
+title: Eowyn, Lady of the Mark
+set: Ages End
+kind: Free People
+culture: Rohan
+twilight: '2'
+typeList:
+  - Companion
+  - Man
+strength: '6'
+vitality: '3'
+resistance: '7'
+gameText: Valiant. Fellowship
+rarity: P
+number: 19P26

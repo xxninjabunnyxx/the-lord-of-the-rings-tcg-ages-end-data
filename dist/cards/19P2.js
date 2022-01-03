@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var card = {
     title: "Gimli, Opinionated Guide",
-    set: "Ages End",
+    set: "Ages End" /* agesEnd */,
     kind: "Free People" /* freePeople */,
     culture: "Dwarven" /* dwarven */,
     twilight: "2",

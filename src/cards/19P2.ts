@@ -1,10 +1,10 @@
-const card: Character = {
+const card: Companion = {
   title: "Gimli, Opinionated Guide",
-  set: "Ages End",
+  set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.dwarven,
   twilight: "2",
-  typeList: [typeListItem.companion, typeListItem.dwarf],
+  typeList: [TypeListItem.companion, TypeListItem.dwarf],
   strength: "6",
   vitality: "3",
   resistance: "6",

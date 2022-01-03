@@ -1,0 +1,17 @@
+title: Boromir, Destined Guide
+set: Ages End
+kind: Free People
+culture: Gondor
+twilight: '3'
+typeList:
+  - Companion
+  - Man
+strength: '7'
+vitality: '3'
+resistance: '5'
+gameText: >-
+  Fellowship. Ranger. While you can spot two unbound Hobbits, Boromir's twilight
+  cost is -1. Each time Boromir wins a skirmish, you may exert an unbound Hobbit
+  to discard each minion he is skirmishing from play.
+rarity: P
+number: 19P13

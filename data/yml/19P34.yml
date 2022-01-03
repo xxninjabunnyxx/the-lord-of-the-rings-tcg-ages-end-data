@@ -1,0 +1,14 @@
+title: In Twilight
+set: Ages End
+kind: Shadow
+culture: Wraith
+twilight: '2'
+typeList:
+  - Condition
+strength: '+2'
+gameText: >-
+  Bearer must be a [Wraith] minion. When you play this, you may draw a card.
+  Each time bearer wins a skirmish, you may transfer this condition to another
+  [Wraith] minion.
+rarity: P
+number: 19P34

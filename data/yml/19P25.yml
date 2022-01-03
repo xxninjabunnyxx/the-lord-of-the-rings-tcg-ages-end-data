@@ -1,0 +1,14 @@
+title: Eomer, Eored Captain
+set: Ages End
+kind: Free People
+culture: Rohan
+twilight: '3'
+typeList:
+  - Companion
+  - Man
+strength: '7'
+vitality: '3'
+resistance: '7'
+gameText: Valiant. Eomer is strength +2 for each wound on each minion he is skirmishing.
+rarity: P
+number: 19P25

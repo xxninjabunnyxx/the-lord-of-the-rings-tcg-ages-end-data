@@ -1,7 +1,9 @@
 {
  "title": "The One Ring, The Great Ring",
  "set": "Ages End",
- "cardType": "The One Ring",
+ "typeList": [
+  "The One Ring"
+ ],
  "gameText": "While wearing The One Ring, each time the bearer is about to take a wound, add a burden instead. Maneuver",
  "rarity": "P",
  "number": "19P1"

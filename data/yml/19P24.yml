@@ -1,0 +1,14 @@
+title: Brought Down From Inside
+set: Ages End
+kind: Free People
+culture: Rohan
+twilight: '2'
+typeList:
+  - Condition
+strength: '+1'
+gameText: >-
+  Bearer must be a [Rohan] Man. At the start of each skirmish you may transfer
+  this condition to a [Rohan] Man. At the end of each turn, if bearer did not
+  win a skirmish this turn, return this condition to hand.
+rarity: P
+number: 19P24

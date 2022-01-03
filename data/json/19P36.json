@@ -1,0 +1,17 @@
+{
+ "title": "Ulaire Enquea, Dark Threat",
+ "set": "Ages End",
+ "kind": "Shadow",
+ "culture": "Wraith",
+ "twilight": "6",
+ "typeList": [
+  "Minion",
+  "Nazgûl"
+ ],
+ "strength": "11",
+ "vitality": "4",
+ "site": "3",
+ "gameText": "Fierce. Maneuver",
+ "rarity": "P",
+ "number": "19P36"
+}

@@ -1,0 +1,17 @@
+{
+ "title": "Ulaire Lemenya, Dark Enemy",
+ "set": "Ages End",
+ "kind": "Shadow",
+ "culture": "Wraith",
+ "twilight": "4",
+ "typeList": [
+  "Minion",
+  "Nazgûl"
+ ],
+ "strength": "9",
+ "vitality": "2",
+ "site": "3",
+ "gameText": "Fierce. Ulaire Lemenya is strength +1 for each [Wraith] possession in your discard pile.",
+ "rarity": "P",
+ "number": "19P37"
+}

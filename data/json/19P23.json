@@ -1,0 +1,17 @@
+{
+ "title": "Troll of the Deep, Cave Troll",
+ "set": "Ages End",
+ "kind": "Shadow",
+ "culture": "Orc",
+ "twilight": "6",
+ "typeList": [
+  "Minion",
+  "Troll"
+ ],
+ "strength": "13",
+ "vitality": "3",
+ "site": "4",
+ "gameText": "To play, spot an [Orc] Orc. Skirmish",
+ "rarity": "P",
+ "number": "19P23"
+}
