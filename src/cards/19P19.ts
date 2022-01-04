@@ -1,5 +1,6 @@
 const card: Minion = {
   title: "Reaching Tentacle",
+  cardType: CardType.minion,
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.moria,

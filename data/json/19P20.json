@@ -1,14 +1,18 @@
 {
-  "title": "Strong Tentacle",
-  "set": "Ages End",
-  "kind": "Shadow",
-  "culture": "Moria",
-  "twilight": "3",
-  "typeList": ["Minion", "Creature"],
-  "strength": "7",
-  "vitality": "2",
-  "site": "4",
-  "gameText": "Tentacle. This minion cannot bear possessions. Discard this minion from play if not at a marsh. This minion is strength +1 for each tentacle you spot.",
-  "rarity": "P",
-  "number": "19P20"
+ "title": "Strong Tentacle",
+ "cardType": "Minion",
+ "set": "Ages End",
+ "kind": "Shadow",
+ "culture": "Moria",
+ "twilight": "3",
+ "typeList": [
+  "Minion",
+  "Creature"
+ ],
+ "strength": "7",
+ "vitality": "2",
+ "site": "4",
+ "gameText": "Tentacle. This minion cannot bear possessions. Discard this minion from play if not at a marsh. This minion is strength +1 for each tentacle you spot.",
+ "rarity": "P",
+ "number": "19P20"
 }

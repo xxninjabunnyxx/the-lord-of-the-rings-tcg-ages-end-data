@@ -1,5 +1,6 @@
 const card: Companion = {
   title: "Arwen, Royal Maiden",
+  cardType: CardType.companion,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.elven,

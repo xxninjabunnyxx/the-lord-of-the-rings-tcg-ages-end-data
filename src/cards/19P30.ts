@@ -1,5 +1,6 @@
 const card: Companion = {
   title: "Pippin, Steadfast Friend",
+  cardType: CardType.companion,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.shire,

@@ -1,5 +1,6 @@
 const card: Minion = {
   title: "Grima, Servant of Another Master",
+  cardType: CardType.minion,
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.isengard,

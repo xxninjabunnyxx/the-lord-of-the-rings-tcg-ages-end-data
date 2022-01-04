@@ -1,5 +1,6 @@
 const card: Companion = {
   title: "Boromir, Destined Guide",
+  cardType: CardType.companion,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.gondor,

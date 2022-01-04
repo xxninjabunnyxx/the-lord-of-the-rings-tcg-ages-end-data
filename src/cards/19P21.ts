@@ -1,5 +1,6 @@
 const card: Minion = {
   title: "Watcher in the Water, Many-Tentacled Creature",
+  cardType: CardType.minion,
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.moria,

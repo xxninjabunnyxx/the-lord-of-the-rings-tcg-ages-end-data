@@ -1,5 +1,6 @@
 const card: Companion = {
   title: "Merry, Resolute Friend",
+  cardType: CardType.companion,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.shire,

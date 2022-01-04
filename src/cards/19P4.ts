@@ -1,5 +1,6 @@
 const card: Event = {
   title: "That's Two!",
+  cardType: CardType.event,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.dwarven,

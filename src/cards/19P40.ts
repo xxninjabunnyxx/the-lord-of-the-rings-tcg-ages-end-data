@@ -1,5 +1,6 @@
 const card: Minion = {
   title: "The Witch-king, Dark Lord",
+  cardType: CardType.minion,
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.wraith,

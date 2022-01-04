@@ -1,14 +1,18 @@
 {
-  "title": "Lurtz, Resilient Captain",
-  "set": "Ages End",
-  "kind": "Shadow",
-  "culture": "Uruk-hai",
-  "twilight": "7",
-  "typeList": ["Minion", "Uruk-hai"],
-  "strength": "13",
-  "vitality": "3",
-  "site": "5",
-  "gameText": "Archer. Damage +1. Response",
-  "rarity": "P",
-  "number": "19P33"
+ "title": "Lurtz, Resilient Captain",
+ "cardType": "Minion",
+ "set": "Ages End",
+ "kind": "Shadow",
+ "culture": "Uruk-hai",
+ "twilight": "7",
+ "typeList": [
+  "Minion",
+  "Uruk-hai"
+ ],
+ "strength": "13",
+ "vitality": "3",
+ "site": "5",
+ "gameText": "Archer. Damage +1. Response",
+ "rarity": "P",
+ "number": "19P33"
 }

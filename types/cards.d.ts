@@ -47,8 +47,17 @@ const enum Rarity {
   p = "P",
 }
 
+const enum CardType {
+  theOneRing = "The One Ring",
+  companion = "Companion",
+  minion = "Minion",
+  condition = "Condition",
+  event = "Event",
+}
+
 type TheOneRing = {
   title: string;
+  cardType: CardType;
   set: Sets;
   typeList: TypeListItem[];
   gameText: string;
@@ -58,6 +67,7 @@ type TheOneRing = {
 
 type Companion = {
   title: string;
+  cardType: CardType;
   set: Sets;
   kind: Kind;
   culture: Culture;
@@ -73,6 +83,7 @@ type Companion = {
 
 type Minion = {
   title: string;
+  cardType: CardType;
   set: Sets;
   kind: Kind;
   culture: Culture;
@@ -88,6 +99,7 @@ type Minion = {
 
 type Condition = {
   title: string;
+  cardType: CardType;
   set: Sets;
   kind: Kind;
   culture: Culture;
@@ -101,6 +113,7 @@ type Condition = {
 
 type Event = {
   title: string;
+  cardType: CardType;
   set: Sets;
   kind: Kind;
   culture: Culture;

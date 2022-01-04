@@ -1,5 +1,6 @@
 const card: Condition = {
   title: "Strength In My Blood",
+  cardType: CardType.condition,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.gondor,

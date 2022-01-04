@@ -1,5 +1,6 @@
 const card: Minion = {
   title: "Ulaire Attea, Dark Predator",
+  cardType: CardType.minion,
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.wraith,

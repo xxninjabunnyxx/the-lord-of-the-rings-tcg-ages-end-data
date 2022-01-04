@@ -1,9 +1,7 @@
 "use strict";
-var __importDefault =
-  (this && this.__importDefault) ||
-  function (mod) {
-    return mod && mod.__esModule ? mod : { default: mod };
-  };
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
 Object.defineProperty(exports, "__esModule", { value: true });
 var fs_1 = require("fs");
 var js_yaml_1 = __importDefault(require("js-yaml"));
@@ -48,58 +46,52 @@ var _19P38_1 = __importDefault(require("./cards/19P38"));
 var _19P39_1 = __importDefault(require("./cards/19P39"));
 var _19P40_1 = __importDefault(require("./cards/19P40"));
 var cards = [
-  _19P1_1.default,
-  _19P2_1.default,
-  _19P3_1.default,
-  _19P4_1.default,
-  _19P5_1.default,
-  _19P6_1.default,
-  _19P7_1.default,
-  _19P8_1.default,
-  _19P9_1.default,
-  _19P10_1.default,
-  _19P11_1.default,
-  _19P12_1.default,
-  _19P13_1.default,
-  _19P14_1.default,
-  _19P15_1.default,
-  _19P16_1.default,
-  _19P17_1.default,
-  _19P18_1.default,
-  _19P19_1.default,
-  _19P20_1.default,
-  _19P21_1.default,
-  _19P22_1.default,
-  _19P23_1.default,
-  _19P24_1.default,
-  _19P25_1.default,
-  _19P26_1.default,
-  _19P27_1.default,
-  _19P28_1.default,
-  _19P29_1.default,
-  _19P30_1.default,
-  _19P31_1.default,
-  _19P32_1.default,
-  _19P33_1.default,
-  _19P34_1.default,
-  _19P35_1.default,
-  _19P36_1.default,
-  _19P37_1.default,
-  _19P38_1.default,
-  _19P39_1.default,
-  _19P40_1.default,
+    _19P1_1.default,
+    _19P2_1.default,
+    _19P3_1.default,
+    _19P4_1.default,
+    _19P5_1.default,
+    _19P6_1.default,
+    _19P7_1.default,
+    _19P8_1.default,
+    _19P9_1.default,
+    _19P10_1.default,
+    _19P11_1.default,
+    _19P12_1.default,
+    _19P13_1.default,
+    _19P14_1.default,
+    _19P15_1.default,
+    _19P16_1.default,
+    _19P17_1.default,
+    _19P18_1.default,
+    _19P19_1.default,
+    _19P20_1.default,
+    _19P21_1.default,
+    _19P22_1.default,
+    _19P23_1.default,
+    _19P24_1.default,
+    _19P25_1.default,
+    _19P26_1.default,
+    _19P27_1.default,
+    _19P28_1.default,
+    _19P29_1.default,
+    _19P30_1.default,
+    _19P31_1.default,
+    _19P32_1.default,
+    _19P33_1.default,
+    _19P34_1.default,
+    _19P35_1.default,
+    _19P36_1.default,
+    _19P37_1.default,
+    _19P38_1.default,
+    _19P39_1.default,
+    _19P40_1.default,
 ];
 var main = function () {
-  cards.map(function (card) {
-    fs_1.promises.writeFile(
-      "./data/json/".concat(card.number, ".json"),
-      JSON.stringify(card, null, 1)
-    );
-    fs_1.promises.writeFile(
-      "./data/yml/".concat(card.number, ".yml"),
-      js_yaml_1.default.dump(card)
-    );
-  });
+    cards.map(function (card) {
+        fs_1.promises.writeFile("./data/json/".concat(card.number, ".json"), JSON.stringify(card, null, 1));
+        fs_1.promises.writeFile("./data/yml/".concat(card.number, ".yml"), js_yaml_1.default.dump(card));
+    });
 };
 main();
 //# sourceMappingURL=index.js.map

@@ -1,5 +1,6 @@
 const card: Condition = {
   title: "Urgency",
+  cardType: CardType.condition,
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.isengard,

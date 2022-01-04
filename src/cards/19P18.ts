@@ -1,5 +1,6 @@
 const card: Minion = {
   title: "The Balrog, Demon of Might",
+  cardType: CardType.minion,
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.moria,

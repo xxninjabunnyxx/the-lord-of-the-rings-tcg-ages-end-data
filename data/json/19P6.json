@@ -1,14 +1,18 @@
 {
-  "title": "Arwen, Royal Maiden",
-  "set": "Ages End",
-  "kind": "Free People",
-  "culture": "Elven",
-  "twilight": "2",
-  "typeList": ["Companion", "Elf"],
-  "strength": "6",
-  "vitality": "3",
-  "resistance": "6",
-  "gameText": "Ranger. While you can spot 2 [Elven] followers, each minion skirmishing Arwen is strength -2. Maneuver",
-  "rarity": "P",
-  "number": "19P6"
+ "title": "Arwen, Royal Maiden",
+ "cardType": "Companion",
+ "set": "Ages End",
+ "kind": "Free People",
+ "culture": "Elven",
+ "twilight": "2",
+ "typeList": [
+  "Companion",
+  "Elf"
+ ],
+ "strength": "6",
+ "vitality": "3",
+ "resistance": "6",
+ "gameText": "Ranger. While you can spot 2 [Elven] followers, each minion skirmishing Arwen is strength -2. Maneuver",
+ "rarity": "P",
+ "number": "19P6"
 }

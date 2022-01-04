@@ -1,5 +1,6 @@
 const card: Condition = {
   title: "Army Long Trained",
+  cardType: CardType.condition,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.elven,

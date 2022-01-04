@@ -1,14 +1,18 @@
 {
-  "title": "Legolas, Skeptical Guide",
-  "set": "Ages End",
-  "kind": "Free People",
-  "culture": "Elven",
-  "twilight": "2",
-  "typeList": ["Companion", "Elf"],
-  "strength": "6",
-  "vitality": "3",
-  "resistance": "7",
-  "gameText": "Archer. Fellowship. Archery",
-  "rarity": "P",
-  "number": "19P7"
+ "title": "Legolas, Skeptical Guide",
+ "cardType": "Companion",
+ "set": "Ages End",
+ "kind": "Free People",
+ "culture": "Elven",
+ "twilight": "2",
+ "typeList": [
+  "Companion",
+  "Elf"
+ ],
+ "strength": "6",
+ "vitality": "3",
+ "resistance": "7",
+ "gameText": "Archer. Fellowship. Archery",
+ "rarity": "P",
+ "number": "19P7"
 }

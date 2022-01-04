@@ -1,5 +1,6 @@
 const card: Minion = {
   title: "Lurtz, Resilient Captain",
+  cardType: CardType.minion,
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.urukHai,

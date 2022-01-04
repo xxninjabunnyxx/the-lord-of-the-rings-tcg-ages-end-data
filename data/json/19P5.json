@@ -1,12 +1,15 @@
 {
-  "title": "Army Long Trained",
-  "set": "Ages End",
-  "kind": "Free People",
-  "culture": "Elven",
-  "twilight": "0",
-  "typeList": ["Condition"],
-  "strength": "+1",
-  "gameText": "Bearer must be an [Elven] companion. Each time bearer wins a skirmish, you may transfer this condition to another [Elven] companion. At the start of the archery phase, you must exert bearer or return this condition to hand.",
-  "rarity": "P",
-  "number": "19P5"
+ "title": "Army Long Trained",
+ "cardType": "Condition",
+ "set": "Ages End",
+ "kind": "Free People",
+ "culture": "Elven",
+ "twilight": "0",
+ "typeList": [
+  "Condition"
+ ],
+ "strength": "+1",
+ "gameText": "Bearer must be an [Elven] companion. Each time bearer wins a skirmish, you may transfer this condition to another [Elven] companion. At the start of the archery phase, you must exert bearer or return this condition to hand.",
+ "rarity": "P",
+ "number": "19P5"
 }
