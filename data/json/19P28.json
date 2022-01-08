@@ -1,18 +1,14 @@
 {
- "title": "Frodo, Little Master",
- "cardType": "Companion",
- "set": "Ages End",
- "kind": "Free People",
- "culture": "Shire",
- "twilight": "0",
- "typeList": [
-  "Companion",
-  "Hobbit"
- ],
- "strength": "3",
- "vitality": "4",
- "resistance": "10",
- "gameText": "Fellowship. Ring-bearer. Ring-bound. While you cannot spot 4 threats, Shadow cards cannot discard cards from your hand or from the top of your draw deck.",
- "rarity": "P",
- "number": "19P28"
+  "title": "Frodo, Little Master",
+  "set": "Ages End",
+  "kind": "Free People",
+  "culture": "Shire",
+  "twilight": "0",
+  "typeList": ["Companion", "Hobbit"],
+  "strength": "3",
+  "vitality": "4",
+  "resistance": "10",
+  "gameText": "Fellowship. Ring-bearer. Ring-bound. While you cannot spot 4 threats, Shadow cards cannot discard cards from your hand or from the top of your draw deck.",
+  "rarity": "P",
+  "number": "19P28"
 }

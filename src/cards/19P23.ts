@@ -1,6 +1,5 @@
 const card: Minion = {
   title: "Troll of the Deep, Cave Troll",
-  cardType: CardType.minion,
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.orc,

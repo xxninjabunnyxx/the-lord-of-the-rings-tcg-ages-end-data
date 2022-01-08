@@ -1,6 +1,5 @@
 const card: Minion = {
   title: "Gollum, Threatening Guide",
-  cardType: CardType.minion,
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.gollum,

@@ -1,6 +1,5 @@
 const card: Companion = {
   title: "Eowyn, Lady of the Mark",
-  cardType: CardType.companion,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.rohan,

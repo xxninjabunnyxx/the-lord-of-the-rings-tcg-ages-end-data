@@ -1,6 +1,5 @@
 const card: Condition = {
   title: "Brought Down From Inside",
-  cardType: CardType.condition,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.rohan,

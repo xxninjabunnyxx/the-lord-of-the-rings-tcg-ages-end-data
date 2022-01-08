@@ -1,6 +1,5 @@
 const card: Minion = {
   title: "Ulaire Nertea, Dark Horseman",
-  cardType: CardType.minion,
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.wraith,

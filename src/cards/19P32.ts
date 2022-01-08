@@ -1,6 +1,5 @@
 const card: Companion = {
   title: "Sam, Loyal Friend",
-  cardType: CardType.companion,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.shire,

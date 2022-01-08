@@ -1,6 +1,5 @@
 const card: Companion = {
   title: "Eomer, Eored Captain",
-  cardType: CardType.companion,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.rohan,

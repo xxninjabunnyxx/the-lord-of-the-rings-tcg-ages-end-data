@@ -1,6 +1,5 @@
 const card: Companion = {
   title: "Gandalf, Wise Guide",
-  cardType: CardType.companion,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.gandalf,

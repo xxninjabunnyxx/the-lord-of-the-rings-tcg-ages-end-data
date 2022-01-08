@@ -1,6 +1,5 @@
 const card: Condition = {
   title: "Not Bound To His Fate",
-  cardType: CardType.condition,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.gondor,

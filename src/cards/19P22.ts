@@ -1,6 +1,5 @@
 const card: Minion = {
   title: "Pit Troll",
-  cardType: CardType.minion,
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.orc,

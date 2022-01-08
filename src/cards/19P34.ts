@@ -1,6 +1,5 @@
 const card: Condition = {
   title: "In Twilight",
-  cardType: CardType.companion,
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.wraith,

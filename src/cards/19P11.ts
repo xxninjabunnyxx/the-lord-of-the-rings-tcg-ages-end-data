@@ -1,6 +1,5 @@
 const card: Companion = {
   title: "Smeagol, Pitiable Guide",
-  cardType: CardType.companion,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.gollum,

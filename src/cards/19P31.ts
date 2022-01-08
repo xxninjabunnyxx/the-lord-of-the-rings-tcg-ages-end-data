@@ -1,6 +1,5 @@
 const card: Condition = {
   title: "Rabbit Stew",
-  cardType: CardType.condition,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.shire,

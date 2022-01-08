@@ -1,6 +1,5 @@
 const card: Companion = {
   title: "Frodo, Little Master",
-  cardType: CardType.companion,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.shire,

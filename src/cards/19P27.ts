@@ -1,6 +1,5 @@
 const card: Event = {
   title: "Sauron's Might",
-  cardType: CardType.event,
   set: Sets.agesEnd,
   kind: Kind.shadow,
   culture: Culture.sauron,

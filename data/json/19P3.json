@@ -1,15 +1,12 @@
 {
- "title": "Still Twitching",
- "cardType": "Condition",
- "set": "Ages End",
- "kind": "Free People",
- "culture": "Dwarven",
- "twilight": "1",
- "typeList": [
-  "Condition"
- ],
- "gameText": "Bearer must be a [Dwarven] companion. Bearer gains Hunter 2. Each time bearer wins a skirmish, you may transfer this condition to another [Dwarven] companion. At the end of each turn, if bearer did not win a skirmish this turn, discard this condition from play.",
- "rarity": "P",
- "number": "19P3",
- "strength": "0"
+  "title": "Still Twitching",
+  "set": "Ages End",
+  "kind": "Free People",
+  "culture": "Dwarven",
+  "twilight": "1",
+  "typeList": ["Condition"],
+  "gameText": "Bearer must be a [Dwarven] companion. Bearer gains Hunter 2. Each time bearer wins a skirmish, you may transfer this condition to another [Dwarven] companion. At the end of each turn, if bearer did not win a skirmish this turn, discard this condition from play.",
+  "rarity": "P",
+  "number": "19P3",
+  "strength": "0"
 }

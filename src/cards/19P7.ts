@@ -1,6 +1,5 @@
 const card: Companion = {
   title: "Legolas, Skeptical Guide",
-  cardType: CardType.companion,
   set: Sets.agesEnd,
   kind: Kind.freePeople,
   culture: Culture.elven,

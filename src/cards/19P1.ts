@@ -1,6 +1,5 @@
 const card: TheOneRing = {
   title: "The One Ring, The Great Ring",
-  cardType: CardType.theOneRing,
   set: Sets.agesEnd,
   typeList: [TypeListItem.theOneRing],
   gameText:
